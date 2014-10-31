@@ -1,0 +1,17 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg" itemID="54538a44-000000f4" lastModified="1414761028">
+  <timeline>
+    <DOMTimeline name="bg">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="1146519_64492589_600x450.jpg"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

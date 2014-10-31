@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcGameOver" itemID="522f5bf0-000001e2" linkageExportForAS="true" linkageClassName="GameOver" lastModified="1378836253">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mcGameOver" itemID="522f5bf0-000001e2" linkageExportForAS="true" linkageClassName="GameOver" lastModified="1414761122">
   <timeline>
-    <DOMTimeline name="mcGameOver" currentFrame="21">
+    <DOMTimeline name="mcGameOver">
       <layers>
         <DOMLayer name="texte" color="#4FFF4F" autoNamed="false">
           <frames>
@@ -36,7 +36,7 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor alpha="0.486274509803922"/>
+                      <SolidColor color="#FF00FF" alpha="0.968627450980392"/>
                     </FillStyle>
                   </fills>
                   <strokes>
